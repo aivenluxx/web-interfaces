@@ -1,0 +1,14 @@
+C:\Users\loltr\source\repos\LR4.2\bin\Debug\net8.0\LR4.2.exe
+C:\Users\loltr\source\repos\LR4.2\bin\Debug\net8.0\LR4.2.deps.json
+C:\Users\loltr\source\repos\LR4.2\bin\Debug\net8.0\LR4.2.runtimeconfig.json
+C:\Users\loltr\source\repos\LR4.2\bin\Debug\net8.0\LR4.2.dll
+C:\Users\loltr\source\repos\LR4.2\bin\Debug\net8.0\LR4.2.pdb
+C:\Users\loltr\source\repos\LR4.2\obj\Debug\net8.0\LR4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loltr\source\repos\LR4.2\obj\Debug\net8.0\LR4.2.AssemblyInfoInputs.cache
+C:\Users\loltr\source\repos\LR4.2\obj\Debug\net8.0\LR4.2.AssemblyInfo.cs
+C:\Users\loltr\source\repos\LR4.2\obj\Debug\net8.0\LR4.2.csproj.CoreCompileInputs.cache
+C:\Users\loltr\source\repos\LR4.2\obj\Debug\net8.0\LR4.2.dll
+C:\Users\loltr\source\repos\LR4.2\obj\Debug\net8.0\refint\LR4.2.dll
+C:\Users\loltr\source\repos\LR4.2\obj\Debug\net8.0\LR4.2.pdb
+C:\Users\loltr\source\repos\LR4.2\obj\Debug\net8.0\LR4.2.genruntimeconfig.cache
+C:\Users\loltr\source\repos\LR4.2\obj\Debug\net8.0\ref\LR4.2.dll
