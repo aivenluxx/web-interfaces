@@ -1,0 +1,6 @@
+@LR6._2_HostAddress = http://localhost:5170
+
+GET {{LR6._2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
