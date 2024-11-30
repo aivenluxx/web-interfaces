@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\loltr\\source\\repos\\LR4.2\\LR4.2.csproj",
+      "projectUniqueName": "C:\\Users\\loltr\\Documents\\GitHub\\web-interfaces\\LR4.2\\LR4.2.csproj",
       "projectName": "LR4.2",
-      "projectPath": "C:\\Users\\loltr\\source\\repos\\LR4.2\\LR4.2.csproj",
+      "projectPath": "C:\\Users\\loltr\\Documents\\GitHub\\web-interfaces\\LR4.2\\LR4.2.csproj",
       "packagesPath": "C:\\Users\\loltr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\loltr\\source\\repos\\LR4.2\\obj\\",
+      "outputPath": "C:\\Users\\loltr\\Documents\\GitHub\\web-interfaces\\LR4.2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\loltr\\AppData\\Roaming\\NuGet\\NuGet.Config",
